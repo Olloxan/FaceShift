@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{b5cf7488-05fe-45a8-8538-68897781c9be}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>FaceSwap.py</StartupFile>
+    <StartupFile>ProjectFaceShift.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
